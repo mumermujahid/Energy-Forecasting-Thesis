@@ -26,4 +26,4 @@ I work at the intersection of power systems engineering and machine learning. My
 - 🔬 Preparing for MASc research in power systems and AI
 
 ## Connect
-📧 umermujahidofficial@gmail.com
+🌐 Website: https://umermujahid.com/
